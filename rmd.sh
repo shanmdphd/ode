@@ -1,1 +1,1 @@
-Rscript -e "rmarkdown::render('suppl.Rmd')"
+Rscript -e "rmarkdown::render('$1')"
